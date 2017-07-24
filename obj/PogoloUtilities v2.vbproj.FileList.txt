@@ -1,0 +1,10 @@
+bin\PogoloUtilitiesv2.dll
+bin\PogoloUtilitiesv2.pdb
+bin\PogoloUtilitiesv2.xml
+bin\Interop.Excel.dll
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Interop.Excel.dll
+obj\Debug\PogoloUtilities v2.vbproj.ResolveComReference.cache
+obj\Debug\PogoloUtilitiesv2.dll
+obj\Debug\PogoloUtilitiesv2.xml
+obj\Debug\PogoloUtilitiesv2.pdb

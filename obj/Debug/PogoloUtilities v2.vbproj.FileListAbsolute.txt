@@ -1,0 +1,9 @@
+C:\Users\cvestre\Documents\.NET Projects\PogoloUtilities v2\bin\PogoloUtilitiesv2.dll
+C:\Users\cvestre\Documents\.NET Projects\PogoloUtilities v2\bin\PogoloUtilitiesv2.pdb
+C:\Users\cvestre\Documents\.NET Projects\PogoloUtilities v2\bin\PogoloUtilitiesv2.xml
+C:\Users\cvestre\Documents\.NET Projects\PogoloUtilities v2\bin\Interop.Microsoft.Office.Core.dll
+C:\Users\cvestre\Documents\.NET Projects\PogoloUtilities v2\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\cvestre\Documents\.NET Projects\PogoloUtilities v2\obj\Debug\PogoloUtilities v2.vbproj.ResolveComReference.cache
+C:\Users\cvestre\Documents\.NET Projects\PogoloUtilities v2\obj\Debug\PogoloUtilitiesv2.dll
+C:\Users\cvestre\Documents\.NET Projects\PogoloUtilities v2\obj\Debug\PogoloUtilitiesv2.xml
+C:\Users\cvestre\Documents\.NET Projects\PogoloUtilities v2\obj\Debug\PogoloUtilitiesv2.pdb
